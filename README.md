@@ -63,7 +63,7 @@ This study demonstrates how digital forensic methodologies can be applied to inv
 
 ---
 
-## 🏫 Academic Context
+## Academic Context
 This project was completed as part of a Digital Forensics unit at Deakin University and is shared for educational and portfolio purposes after grading.
 
 ---
