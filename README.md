@@ -15,7 +15,7 @@ The aim is to understand how digital forensic methods can be applied to detect a
 
 ---
 
-## 🔍 Methodology
+## Methodology
 The investigation followed a structured digital forensic approach:
 
 1. **Identification**
